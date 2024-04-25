@@ -4,7 +4,7 @@
     <g id="elements">
         <g id="gleisplan" data-from="70 0 noanim-keepzoom" class="toplevel">
 
-            <path data-line="east-west" data-stops="hbf_lopzig nbf_lopzig bf_keil bf_3 bf_4 sbf_rheinberg hbf_rheinberg fbf_rheinberg"  />
+            <path data-line="east-west" data-stops="hbf_lopzig nbf_lopzig bf_keil bf_3 bf_4 sbf_rheinberg hbf_rheinberg fbf_rheinberg hbf_neustadt"  />
             <path data-line="north-south" data-stops="bf_keil nbf_1"  />
 
             <rect data-station="hbf_lopzig" x="+75" y="-20" />
@@ -15,7 +15,8 @@
             <rect data-station="bf_4" x="-225" y="-20" />
             <rect data-station="sbf_rheinberg" x="-300" y="-20" />
             <rect data-station="hbf_rheinberg" x="-400" y="-20" />
-            <rect data-station="fbf_rheinberg" x="-475" y="-50" />
+            <rect data-station="fbf_rheinberg" x="-475" y="-40" />
+            <rect data-station="hbf_neustadt" x="-560" y="-100" />
 
 
             <text data-station="hbf_lopzig">Lopzig HBF</text>
@@ -26,7 +27,8 @@
             <text data-station="bf_4">BF 4</text>
             <text data-station="sbf_rheinberg">Rheinberg SBF</text>
             <text data-station="hbf_rheinberg">Rheinberg HBF</text>
-            <text data-station="fbf_rheinberg">Rheinberg Flughafen BF</text>
+            <text data-station="fbf_rheinberg">Rheinberg FLughafen BF</text>
+            <text data-station="hbf_neustadt">Neustadt HBF</text>
 
         </g>
     </g>
