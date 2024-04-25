@@ -12,7 +12,7 @@
             <rect data-station="nbf_1" x="+00" y="+20" />
             <rect data-station="bf_keil" x="-75" y="-20" />
             <rect data-station="bf_3" x="-150" y="-20" />
-            <rect data-station="bf_4" x="-225" y="-20" />
+            <rect data-station="bf_dorem" x="-225" y="-20" />
             <rect data-station="sbf_rheinberg" x="-300" y="-20" />
             <rect data-station="hbf_rheinberg" x="-400" y="-20" />
             <rect data-station="fbf_rheinberg" x="-475" y="-40" />
@@ -24,7 +24,7 @@
             <text data-station="nbf_1">Walderrode</text>
             <text data-station="bf_keil">Keil BF</text>
             <text data-station="bf_3">BF 3</text>
-            <text data-station="bf_4">BF 4</text>
+            <text data-station="bf_dorem">Dorem BF</text>
             <text data-station="sbf_rheinberg">Rheinberg SBF</text>
             <text data-station="hbf_rheinberg">Rheinberg HBF</text>
             <text data-station="fbf_rheinberg">Rheinberg FLughafen BF</text>
