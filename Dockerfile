@@ -1,6 +1,6 @@
 FROM alekzonder/puppeteer:latest
 
-USER root
+USER vince
 
 RUN apt-get update && apt-get install -yq ffmpeg
 RUN yarn global add timecut

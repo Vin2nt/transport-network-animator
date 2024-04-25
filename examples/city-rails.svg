@@ -4,14 +4,15 @@
     <g id="elements">
         <g id="gleisplan" data-from="70 0 noanim-keepzoom" class="toplevel">
 
-            <path data-line="east-west" data-stops="hbf_lopzig nbf_lopzig bf_keil bf_3 bf_4 sbf_rheinberg hbf_rheinberg fbf_rheinberg hbf_neustadt"  />
-            <path data-line="north-south" data-stops="bf_keil nbf_1"  />
+            <path data-line="re-001" data-stops="hbf_lopzig bf_oberhausen bf_keil bf_altenbrak bf_dorem sbf_rheinberg hbf_rheinberg fbf_rheinberg hbf_neustadt"  />
+            <path data-line="s-001" data-stops="bf_dorem sbf_rheinberg hbf_rheinberg"  />
+            <path data-line="rb-001" data-stops="bf_keil nbf_1"  />
 
-            <rect data-station="hbf_lopzig" x="+75" y="-20" />
-            <rect data-station="nbf_lopzig" x="+00" y="-20" />
+            <rect data-station="hbf_lopzig" x="+85" y="-20" />
+            <rect data-station="bf_oberhausen" x="+00" y="-20" />
             <rect data-station="nbf_1" x="+00" y="+20" />
             <rect data-station="bf_keil" x="-75" y="-20" />
-            <rect data-station="bf_3" x="-150" y="-20" />
+            <rect data-station="bf_altenbrak" x="-150" y="-20" />
             <rect data-station="bf_dorem" x="-225" y="-20" />
             <rect data-station="sbf_rheinberg" x="-300" y="-20" />
             <rect data-station="hbf_rheinberg" x="-400" y="-20" />
@@ -20,14 +21,14 @@
 
 
             <text data-station="hbf_lopzig">Lopzig HBF</text>
-            <text data-station="nbf_lopzig">Lopzig NBF</text>
+            <text data-station="bf_oberhausen">Oberhausen</text>
             <text data-station="nbf_1">Walderrode</text>
-            <text data-station="bf_keil">Keil BF</text>
-            <text data-station="bf_3">BF 3</text>
-            <text data-station="bf_dorem">Dorem BF</text>
-            <text data-station="sbf_rheinberg">Rheinberg SBF</text>
-            <text data-station="hbf_rheinberg">Rheinberg HBF</text>
-            <text data-station="fbf_rheinberg">Rheinberg FLughafen BF</text>
+            <text data-station="bf_keil">Keil</text>
+            <text data-station="bf_altenbrak">Altenbrak</text>
+            <text data-station="bf_dorem">Dorem</text>
+            <text data-station="sbf_rheinberg">Rheinburg Süd</text>
+            <text data-station="hbf_rheinberg">Rheinburg HBF</text>
+            <text data-station="fbf_rheinberg">Rheinburg Flughafen</text>
             <text data-station="hbf_neustadt">Neustadt HBF</text>
 
         </g>
