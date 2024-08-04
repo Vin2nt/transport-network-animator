@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[BoundingBox.ts:4](https://github.com/traines-source/transport-network-animator/blob/master/src/BoundingBox.ts#L4)
+[BoundingBox.ts:4](https://github.com/Vin2nt/transport-network-animator/blob/master/src/BoundingBox.ts#L4)
 
 ## Properties
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[BoundingBox.ts:11](https://github.com/traines-source/transport-network-animator/blob/master/src/BoundingBox.ts#L11)
+[BoundingBox.ts:11](https://github.com/Vin2nt/transport-network-animator/blob/master/src/BoundingBox.ts#L11)
 
 ## Methods
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[BoundingBox.ts:29](https://github.com/traines-source/transport-network-animator/blob/master/src/BoundingBox.ts#L29)
+[BoundingBox.ts:29](https://github.com/Vin2nt/transport-network-animator/blob/master/src/BoundingBox.ts#L29)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[BoundingBox.ts:18](https://github.com/traines-source/transport-network-animator/blob/master/src/BoundingBox.ts#L18)
+[BoundingBox.ts:18](https://github.com/Vin2nt/transport-network-animator/blob/master/src/BoundingBox.ts#L18)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[BoundingBox.ts:14](https://github.com/traines-source/transport-network-animator/blob/master/src/BoundingBox.ts#L14)
+[BoundingBox.ts:14](https://github.com/Vin2nt/transport-network-animator/blob/master/src/BoundingBox.ts#L14)
 
 ___
 
@@ -143,4 +143,4 @@ ___
 
 #### Defined in
 
-[BoundingBox.ts:7](https://github.com/traines-source/transport-network-animator/blob/master/src/BoundingBox.ts#L7)
+[BoundingBox.ts:7](https://github.com/Vin2nt/transport-network-animator/blob/master/src/BoundingBox.ts#L7)

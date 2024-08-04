@@ -52,7 +52,7 @@ SVG: `data-from`
 
 #### Defined in
 
-[svg/SvgApi.ts:31](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
+[svg/SvgApi.ts:31](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
 
 ___
 
@@ -68,7 +68,7 @@ SVG: `data-length`
 
 #### Defined in
 
-[svg/SvgApi.ts:286](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L286)
+[svg/SvgApi.ts:286](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L286)
 
 ___
 
@@ -90,7 +90,7 @@ SVG: `data-train`
 
 #### Defined in
 
-[svg/SvgApi.ts:263](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L263)
+[svg/SvgApi.ts:263](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L263)
 
 ___
 
@@ -102,7 +102,7 @@ Offset in minutes of the timetable given in [SvgTrainAttributes.stops](SvgTrainA
 
 #### Defined in
 
-[svg/SvgApi.ts:291](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L291)
+[svg/SvgApi.ts:291](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L291)
 
 ___
 
@@ -123,7 +123,7 @@ SVG: `data-stops`
 
 #### Defined in
 
-[svg/SvgApi.ts:277](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L277)
+[svg/SvgApi.ts:277](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L277)
 
 ___
 
@@ -149,4 +149,4 @@ SVG: `data-to`
 
 #### Defined in
 
-[svg/SvgApi.ts:46](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)
+[svg/SvgApi.ts:46](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)

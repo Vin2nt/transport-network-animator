@@ -44,7 +44,7 @@ Animator.constructor
 
 #### Defined in
 
-[svg/SvgAnimator.ts:5](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L5)
+[svg/SvgAnimator.ts:5](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L5)
 
 ## Properties
 
@@ -72,7 +72,7 @@ Animator.EASE\_CUBIC
 
 #### Defined in
 
-[Animator.ts:4](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L4)
+[Animator.ts:4](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L4)
 
 ___
 
@@ -100,7 +100,7 @@ Animator.EASE\_NONE
 
 #### Defined in
 
-[Animator.ts:3](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L3)
+[Animator.ts:3](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L3)
 
 ___
 
@@ -128,7 +128,7 @@ Animator.EASE\_SINE
 
 #### Defined in
 
-[Animator.ts:5](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L5)
+[Animator.ts:5](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L5)
 
 ## Methods
 
@@ -153,7 +153,7 @@ Animator.animate
 
 #### Defined in
 
-[Animator.ts:47](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L47)
+[Animator.ts:47](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L47)
 
 ___
 
@@ -177,7 +177,7 @@ Animator.ease
 
 #### Defined in
 
-[Animator.ts:34](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L34)
+[Animator.ts:34](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L34)
 
 ___
 
@@ -201,7 +201,7 @@ Animator.from
 
 #### Defined in
 
-[Animator.ts:19](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L19)
+[Animator.ts:19](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L19)
 
 ___
 
@@ -219,7 +219,7 @@ Animator.now
 
 #### Defined in
 
-[svg/SvgAnimator.ts:9](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L9)
+[svg/SvgAnimator.ts:9](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L9)
 
 ___
 
@@ -243,7 +243,7 @@ Animator.requestFrame
 
 #### Defined in
 
-[svg/SvgAnimator.ts:17](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L17)
+[svg/SvgAnimator.ts:17](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L17)
 
 ___
 
@@ -267,7 +267,7 @@ Animator.timePassed
 
 #### Defined in
 
-[Animator.ts:29](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L29)
+[Animator.ts:29](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L29)
 
 ___
 
@@ -292,7 +292,7 @@ Animator.timeout
 
 #### Defined in
 
-[svg/SvgAnimator.ts:13](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L13)
+[svg/SvgAnimator.ts:13](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgAnimator.ts#L13)
 
 ___
 
@@ -316,7 +316,7 @@ Animator.to
 
 #### Defined in
 
-[Animator.ts:24](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L24)
+[Animator.ts:24](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L24)
 
 ___
 
@@ -341,4 +341,4 @@ Animator.wait
 
 #### Defined in
 
-[Animator.ts:39](https://github.com/traines-source/transport-network-animator/blob/master/src/Animator.ts#L39)
+[Animator.ts:39](https://github.com/Vin2nt/transport-network-animator/blob/master/src/Animator.ts#L39)

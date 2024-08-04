@@ -40,7 +40,7 @@ SVG: `data-crumpled-image`
 
 #### Defined in
 
-[svg/SvgApi.ts:90](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L90)
+[svg/SvgApi.ts:90](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L90)
 
 ___
 
@@ -66,7 +66,7 @@ SVG: `data-from`
 
 #### Defined in
 
-[svg/SvgApi.ts:31](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
+[svg/SvgApi.ts:31](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
 
 ___
 
@@ -84,7 +84,7 @@ SVG: `name`, the standard SVG name attribute
 
 #### Defined in
 
-[svg/SvgApi.ts:16](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L16)
+[svg/SvgApi.ts:16](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L16)
 
 ___
 
@@ -110,4 +110,4 @@ SVG: `data-to`
 
 #### Defined in
 
-[svg/SvgApi.ts:46](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)
+[svg/SvgApi.ts:46](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)

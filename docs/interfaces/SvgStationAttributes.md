@@ -42,7 +42,7 @@ SVG: standard `x` and `y` attributes
 
 #### Defined in
 
-[svg/SvgApi.ts:212](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L212)
+[svg/SvgApi.ts:212](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L212)
 
 ___
 
@@ -68,7 +68,7 @@ SVG: `data-from`
 
 #### Defined in
 
-[svg/SvgApi.ts:31](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
+[svg/SvgApi.ts:31](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
 
 ___
 
@@ -84,7 +84,7 @@ SVG: `data-station`
 
 #### Defined in
 
-[svg/SvgApi.ts:205](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L205)
+[svg/SvgApi.ts:205](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L205)
 
 ___
 
@@ -100,7 +100,7 @@ SVG: `data-label-dir`
 
 #### Defined in
 
-[svg/SvgApi.ts:240](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L240)
+[svg/SvgApi.ts:240](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L240)
 
 ___
 
@@ -117,7 +117,7 @@ SVG: `data-lon-lat`
 
 #### Defined in
 
-[svg/SvgApi.ts:222](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L222)
+[svg/SvgApi.ts:222](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L222)
 
 ___
 
@@ -135,7 +135,7 @@ SVG: `name`, the standard SVG name attribute
 
 #### Defined in
 
-[svg/SvgApi.ts:16](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L16)
+[svg/SvgApi.ts:16](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L16)
 
 ___
 
@@ -151,7 +151,7 @@ SVG: `data-dir`
 
 #### Defined in
 
-[svg/SvgApi.ts:231](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L231)
+[svg/SvgApi.ts:231](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L231)
 
 ___
 
@@ -177,4 +177,4 @@ SVG: `data-to`
 
 #### Defined in
 
-[svg/SvgApi.ts:46](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)
+[svg/SvgApi.ts:46](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)

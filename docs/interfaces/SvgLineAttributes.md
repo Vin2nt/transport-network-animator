@@ -44,7 +44,7 @@ SVG: `data-anim-order`
 
 #### Defined in
 
-[svg/SvgApi.ts:177](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L177)
+[svg/SvgApi.ts:177](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L177)
 
 ___
 
@@ -58,7 +58,7 @@ SVG: `data-beck-style`
 
 #### Defined in
 
-[svg/SvgApi.ts:184](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L184)
+[svg/SvgApi.ts:184](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L184)
 
 ___
 
@@ -84,7 +84,7 @@ SVG: `data-from`
 
 #### Defined in
 
-[svg/SvgApi.ts:31](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
+[svg/SvgApi.ts:31](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L31)
 
 ___
 
@@ -105,7 +105,7 @@ SVG: `data-line`
 
 #### Defined in
 
-[svg/SvgApi.ts:140](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L140)
+[svg/SvgApi.ts:140](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L140)
 
 ___
 
@@ -119,7 +119,7 @@ SVG: `data-speed`
 
 #### Defined in
 
-[svg/SvgApi.ts:168](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L168)
+[svg/SvgApi.ts:168](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L168)
 
 ___
 
@@ -140,7 +140,7 @@ SVG: `data-stops`
 
 #### Defined in
 
-[svg/SvgApi.ts:154](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L154)
+[svg/SvgApi.ts:154](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L154)
 
 ___
 
@@ -166,7 +166,7 @@ SVG: `data-to`
 
 #### Defined in
 
-[svg/SvgApi.ts:46](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)
+[svg/SvgApi.ts:46](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L46)
 
 ___
 
@@ -180,4 +180,4 @@ The graph weight of that Line segment, used for Gravitator.
 
 #### Defined in
 
-[svg/SvgApi.ts:161](https://github.com/traines-source/transport-network-animator/blob/master/src/svg/SvgApi.ts#L161)
+[svg/SvgApi.ts:161](https://github.com/Vin2nt/transport-network-animator/blob/master/src/svg/SvgApi.ts#L161)
